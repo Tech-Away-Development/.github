@@ -1,11 +1,10 @@
-## Hi there 👋
-
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="tech-away-development-github-organisation-logo-dark-01.png">
  <source media="(prefers-color-scheme: light)" srcset="tech-away-development-github-organisation-logo-dark-01.png">
  <img alt="YOUR-ALT-TEXT" src="tech-away-development-github-organisation-logo-dark-01.png">
 </picture>
 
+## Welcome
 
 <!--
 
