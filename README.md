@@ -25,6 +25,54 @@ We are proud of the diverse range of projects we have developed. Here are some e
 - **Technologies Used:** Django, PostgreSQL, Redis
 - **Repository:** [E-commerce Platform](https://github.com/Tech-Away-Development/E-commerce-Platform)
 
+## Contribution Guidelines
+
+We welcome contributions from the community to help improve our projects. To get started, please follow these guidelines:
+
+1. **Fork the Repository**
+   - Start by forking the repository to your GitHub account.
+
+2. **Clone the Repository**
+   - Clone the forked repository to your local machine using the following command:
+     ```sh
+     git clone https://github.com/your-username/repo-name.git
+     ```
+
+3. **Create a Branch**
+   - Create a new branch for your feature or bug fix:
+     ```sh
+     git checkout -b feature-or-bugfix-name
+     ```
+
+4. **Make Changes**
+   - Make your changes to the codebase.
+   - Ensure your code follows the project's coding standards and passes all tests.
+
+5. **Commit Changes**
+   - Commit your changes with a clear and concise commit message:
+     ```sh
+     git commit -m "Description of the changes"
+     ```
+
+6. **Push Changes**
+   - Push your changes to your forked repository:
+     ```sh
+     git push origin feature-or-bugfix-name
+     ```
+
+7. **Create a Pull Request**
+   - Open a pull request from your forked repository to the main repository.
+   - Provide a detailed description of your changes and any related issues.
+
+8. **Review Process**
+   - Your pull request will be reviewed by the maintainers.
+   - Be responsive to feedback and make any necessary changes.
+
+9. **Merge**
+   - Once approved, your changes will be merged into the main branch.
+
+Thank you for your contributions! They are greatly appreciated.
+
 <!--
 
 **Here are some ideas to get you started:**
