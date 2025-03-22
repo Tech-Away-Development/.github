@@ -1,11 +1,18 @@
-## Hi there 👋
-
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="../../tech-away-development-github-organisation-logo-01.png">
- <source media="(prefers-color-scheme: light)" srcset="../../tech-away-development-github-organisation-logo-dark-01.png">
- <img alt="YOUR-ALT-TEXT" src="../../tech-away-development-github-organisation-logo-01.png">
+ <source media="(prefers-color-scheme: dark)" srcset="../tech-away-development-github-organisation-logo-dark-01.png">
+ <source media="(prefers-color-scheme: light)" srcset="../tech-away-development-github-organisation-logo-dark-01.png">
+ <img alt="YOUR-ALT-TEXT" src="../tech-away-development-github-organisation-logo-dark-01.png">
 </picture>
 
+
+Tech-Away Development is a forward-thinking technology company committed to revolutionizing the digital landscape. Our team of innovative developers and engineers focuses on creating cutting-edge solutions that drive progress and enhance user experiences. With a strong emphasis on collaboration and continuous improvement, we strive to deliver exceptional products that meet the evolving needs of our clients and the tech industry as a whole. Join us on our journey to redefine the future of technology.
+
+We would love to hear from you! If you have any questions, suggestions, or feedback, please feel free to reach out to us through the following channels:
+
+- **Email:** [development@tech-away.co.za](mailto:development@tech-away.co.za)
+- **GitHub Issues:** [Open an Issue](https://github.com/Tech-Away-Development/.github/issues)
+
+Our team is always here to help and we look forward to connecting with you!
 
 <!--
 
