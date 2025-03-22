@@ -4,7 +4,7 @@
  <img alt="YOUR-ALT-TEXT" src="tech-away-development-github-organisation-logo-dark-01.png">
 </picture>
 
-## Welcome
+Tech-Away Development is a forward-thinking technology company committed to revolutionizing the digital landscape. Our team of innovative developers and engineers focuses on creating cutting-edge solutions that drive progress and enhance user experiences. With a strong emphasis on collaboration and continuous improvement, we strive to deliver exceptional products that meet the evolving needs of our clients and the tech industry as a whole. Join us on our journey to redefine the future of technology.
 
 <!--
 
