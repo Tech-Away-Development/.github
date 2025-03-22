@@ -73,6 +73,17 @@ We welcome contributions from the community to help improve our projects. To get
 
 Thank you for your contributions! They are greatly appreciated.
 
+## Contact Us
+
+We would love to hear from you! If you have any questions, suggestions, or feedback, please feel free to reach out to us through the following channels:
+
+- **Email:** [info@techawaydevelopment.com](mailto:info@techawaydevelopment.com)
+- **Twitter:** [@TechAwayDev](https://twitter.com/TechAwayDev)
+- **LinkedIn:** [Tech-Away Development](https://www.linkedin.com/company/techawaydevelopment)
+- **GitHub Issues:** [Open an Issue](https://github.com/Tech-Away-Development/.github/issues)
+
+Our team is always here to help and we look forward to connecting with you!
+
 <!--
 
 **Here are some ideas to get you started:**
